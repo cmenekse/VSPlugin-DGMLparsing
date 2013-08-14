@@ -1,0 +1,7 @@
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\bin\Debug\ParseCheck.dll
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\bin\Debug\ParseCheck.pdb
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\bin\Debug\Parser.exe
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\bin\Debug\Parser.pdb
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\obj\Debug\ParseCheck.csprojResolveAssemblyReference.cache
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\obj\Debug\ParseCheck.dll
+C:\Users\Windows 7\Documents\Visual Studio 2012\Projects\Parser\ParseCheck\obj\Debug\ParseCheck.pdb

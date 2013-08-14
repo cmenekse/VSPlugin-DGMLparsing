@@ -1,0 +1,6 @@
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\\VSPackageTitleName.dll
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\\VSPackageTitleName.pkgdef
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\\extension.vsixmanifest
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\Templates\\MyExtFile.vspackagetitlename
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\Templates\\VSPackageTitleName.vsdir
+C:\Users\Windows 7\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Company\VSPackageTitleName\1.0\\VSPackageTitleName.pdb

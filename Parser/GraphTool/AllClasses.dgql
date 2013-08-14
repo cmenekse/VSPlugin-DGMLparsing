@@ -1,0 +1,5 @@
++ Id.Equals("Microsoft.Solution.ClassView") /
+"Microsoft.Solution.ClassView"/
+*/
+"Node:Both:CodeSchema_Class"/
+-Category.Contains("Delegate")

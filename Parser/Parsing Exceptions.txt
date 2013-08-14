@@ -1,0 +1,3 @@
+    <Node Id="(@33 @80 @133 @207)" Category="CodeSchema_Method" Bounds="2020.60225966087,72.6992017951872,98.8131999999996,24.9366747733333" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" DelayedCrossGroupLinksState="Fetched" Label="TestAssert" />
+    <Node Id="(@61 @76 @105 @207)" Category="CodeSchema_Method" Bounds="3102.92788066667,2674.45524150354,124.338333333333,24.9366793333334" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" DelayedCrossGroupLinksState="Fetched" Label="MockAssembly" />
+    <Node Id="53ffa3c7-bcba-4bae-abf4-9a950e3d322c" Bounds="0,0,6659.39833333333,3339.13854649596" Group="Expanded" Label="New Group" />

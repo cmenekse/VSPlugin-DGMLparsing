@@ -1,0 +1,13 @@
++ Id.Equals("Microsoft.Solution.SolutionView") /
+"Microsoft.Solution.SolutionView"/
+* /
+"Microsoft.AllInboundLinks"/
+* /
+"Node:Both:CodeSchema_Project"/
+* /
+"Node:Both:CodeSchema_Assembly" /
+*/
+"Link:Forward:References"/
+*/
+"Microsoft.AllNodes"/
++Category.Equals("CodeSchema_Assembly")
